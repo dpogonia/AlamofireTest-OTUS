@@ -15,8 +15,8 @@ SwiftUI, Alamofire, CocoaPods.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/AlamofireTest.git
-cd AlamofireTest
+git clone https://github.com/dpogonia/AlamofireTest-OTUS.git
+cd AlamofireTest-OTUS
 pod install
 open AlamofireTest.xcworkspace
 ```
